@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pytesseract
+Pillow
+python-dotenv
+openai
+transformers
+torch
+python-multipart
+spacy
+easyocr
+regex
+cx_Oracle
+
+D:\user\Dhremagi\downloads\tesseract\tesseract.exe
